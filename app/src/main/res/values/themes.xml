@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.SimpleBookkeeper" parent="Theme.MaterialComponents.DayNight.NoActionBar" />
+</resources>
